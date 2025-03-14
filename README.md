@@ -62,7 +62,7 @@ Copy
 streamlit run streamlit_app.py
 The app will open in your browser at http://localhost:8501.
 
-🖥️ Usage
+## 🖥️ Usage
 Open the Streamlit app in your browser.
 
 Enter a product review in the text box.
@@ -71,7 +71,7 @@ Click "Analyze Sentiment".
 
 View the sentiment (positive, negative, or neutral) and confidence score.
 
-📂 Project Structure
+## 📂 Project Structure
 Copy
 sentiment-analysis-app/
 ├── backend/
@@ -88,7 +88,7 @@ Frontend: Streamlit
 
 Model: distilbert-base-uncased-finetuned-sst-2-english
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome! If you'd like to contribute:
 
 Fork the repository.
@@ -101,7 +101,7 @@ Push to the branch (git push origin feature/YourFeature).
 
 Open a pull request.
 
-📧 Contact
+## 📧 Contact
 For questions or feedback, feel free to reach out:
 📧 siddharthshetty2032005@gmail.com
 🔗 www.linkedin.com/in/siddharth-shetty-657797283
